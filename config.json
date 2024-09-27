@@ -1,0 +1,5 @@
+{
+    "telegramBotToken": "", 
+    "chatId": "",                
+    "checkInterval": 10000                   
+}
